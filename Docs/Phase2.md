@@ -1,4 +1,4 @@
-Perfeito! Vamos à **parte 2/5**, com os **manifests do Kubernetes** segmentados por diretório, namespace e boas práticas. Cada bloco tem o respectivo código pronto para copiar/colar.
+**manifests do Kubernetes** segmentados por diretório, namespace e boas práticas. Cada bloco tem o respectivo código pronto para copiar/colar.
 
 ---
 

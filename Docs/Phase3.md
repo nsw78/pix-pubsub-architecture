@@ -1,4 +1,4 @@
-Excelente! Vamos à **parte 3/5**, onde configuramos o **monitoramento completo com Prometheus, Grafana e Alertmanager**, e ajustamos Kafka e RabbitMQ para os tópicos PIX.
+**monitoramento completo com Prometheus, Grafana e Alertmanager**, e ajustamos Kafka e RabbitMQ para os tópicos PIX.
 
 ---
 
