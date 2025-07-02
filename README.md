@@ -6,6 +6,9 @@
 * Execução no VSCode ✅
 * (Extra) `docker-compose.yaml` para rodar localmente sem Kubernetes ✅
 
+PS.: Aqui você terá um passo a passo para criar todo o projeto no seu notebook:
+https://github.com/nsw78/pix-pubsub-architecture/tree/main/Docs
+
 ---
 
 ## 📝 `README.md`
