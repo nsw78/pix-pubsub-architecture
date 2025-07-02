@@ -201,9 +201,6 @@ docker-compose up --build
 * [x] Monitoring com Prometheus, Grafana, Alertmanager
 * [x] Documentação pronta (este README)
 
----
-
-Perfeito! Chegamos à **parte 5/5**, com recursos extras que levam seu projeto a outro nível — com foco em **observabilidade real**, **boas práticas**, **scripts de automação** e **preparação para ambientes reais**.
 
 ---
 
