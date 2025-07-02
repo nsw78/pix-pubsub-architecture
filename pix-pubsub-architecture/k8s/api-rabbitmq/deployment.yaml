@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: api-rabbitmq
+  namespace: api-rabbitmq
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: api-rabbitmq
+  template:
+    metadata:
+      labels:
+        app: api-rabbitmq
+    spec:
+      containers:
+        - name: api-rabbitmq
+          image: api-rabbitmq:latest
+          ports:
+            - containerPort: 5001

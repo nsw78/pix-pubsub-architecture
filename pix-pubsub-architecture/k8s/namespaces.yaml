@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: api-kafka
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: api-rabbitmq
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: monitoring

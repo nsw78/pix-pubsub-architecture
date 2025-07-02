@@ -205,3 +205,16 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Local development environment files
+#  These files are used to configure local development environments and should not be committed.
+#  They can include environment variables, local settings, and other configurations that are specific
+#  to the developer's machine.
+__pycache__/
+*.pyc
+.env
+*.log
+.DS_Store
+*.db
+.idea/
+.vscode/

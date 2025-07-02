@@ -1,0 +1,39 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: pix-ingress
+  namespace: api-kafka
+  annotations:
+    nginx.ingress.kubernetes.io/rewrite-target: /
+spec:
+  rules:
+    - host: pix.local
+      http:
+        paths:
+          - path: /kafka
+            pathType: Prefix
+            backend:
+              service:
+                name: api-kafka
+                port:
+                  number: 80
+---
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: pix-ingress
+  namespace: api-rabbitmq
+  annotations:
+    nginx.ingress.kubernetes.io/rewrite-target: /
+spec:
+  rules:
+    - host: pix.local
+      http:
+        paths:
+          - path: /rabbit
+            pathType: Prefix
+            backend:
+              service:
+                name: api-rabbitmq
+                port:
+                  number: 80

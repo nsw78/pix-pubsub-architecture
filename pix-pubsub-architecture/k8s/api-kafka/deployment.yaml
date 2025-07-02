@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: api-kafka
+  namespace: api-kafka
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: api-kafka
+  template:
+    metadata:
+      labels:
+        app: api-kafka
+    spec:
+      containers:
+        - name: api-kafka
+          image: api-kafka:latest
+          ports:
+            - containerPort: 5000
