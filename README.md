@@ -336,17 +336,6 @@ pix-pubsub-architecture/
 └── README.md
 ```
 
-## 📌 5. Dicas para o GitHub
-
-* Crie um repositório chamado `pix-pubsub-architecture`
-* Commit por partes:
-
-  * `git add . && git commit -m "feat: estrutura inicial do projeto PIX PubSub"`
-* Escreva um bom `README.md` (já fornecido)
-* Marque com as tags: `#kafka`, `#rabbitmq`, `#kubernetes`, `#pix`, `#pubsub`, `#flask`, `#grafana`, `#devops`
-
----
-
 ## ✅ Finalizamos!
 
 Você agora tem uma arquitetura completa, com:
