@@ -20,7 +20,7 @@ Este projeto implementa uma arquitetura de mensageria para transações PIX simu
 ---
 
 ## 📁 Estrutura
-
+````
 ```plaintext
 pix-pubsub-architecture/
 ├── api-kafka/             # API Flask que envia eventos para Kafka
