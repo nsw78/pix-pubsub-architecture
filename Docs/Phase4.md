@@ -204,12 +204,7 @@ docker-compose up --build
 
 Este projeto é uma simulação local de arquitetura Pub/Sub para mensageria de transações PIX. Para produção, recomenda-se uso de TLS, autenticação Kafka, RabbitMQ HA, observabilidade avançada (OpenTelemetry), logs estruturados e persistência.
 
----
 
-## 👨‍💻 Autor
-
-Nelson Walcow
-\[SRE | DevOps | Engenharia de Dados | Cloud Specialist]
 
 
 
