@@ -1,4 +1,4 @@
-**monitoramento completo com Prometheus, Grafana e Alertmanager**, e ajustamos Kafka e RabbitMQ para os tópicos PIX.
+Excelente! Vamos à **parte 3/5**, onde configuramos o **monitoramento completo com Prometheus, Grafana e Alertmanager**, e ajustamos Kafka e RabbitMQ para os tópicos PIX.
 
 ---
 
@@ -242,4 +242,4 @@ Na **parte 4**, entregarei:
 * Execução em VSCode
 * Opcional: `docker-compose.yaml` para testes fora do Kubernetes
 
-
+Vamos seguir agora com a **parte 4**?
