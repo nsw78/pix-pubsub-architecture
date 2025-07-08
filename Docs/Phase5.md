@@ -151,4 +151,9 @@ Você agora tem uma arquitetura completa, com:
 * Observabilidade real com Prometheus e Grafana
 * Ingress, namespace, build, testes e até script de health check
 
+---
 
+## 👨‍💻 Autor
+
+Nelson Walcow
+\[SRE | DevOps | Engenharia de Dados | Cloud Specialist]
