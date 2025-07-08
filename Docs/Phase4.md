@@ -1,4 +1,4 @@
-
+Excelente! Vamos à **parte 4/5**, com:
 
 * `README.md` documentado para GitHub ✅
 * Comandos de teste com `curl` ✅
@@ -16,10 +16,10 @@ Este projeto implementa uma arquitetura de mensageria para transações PIX simu
 
 ---
 
-
 ## 📁 Estrutura
-````
-```plaintext
+
+```
+
 pix-pubsub-architecture/
 ├── api-kafka/             # API Flask que envia eventos para Kafka
 ├── api-rabbitmq/          # API Flask que envia eventos para RabbitMQ
@@ -34,7 +34,7 @@ pix-pubsub-architecture/
 ├── requirements.txt
 └── README.md
 
-```
+````
 
 ---
 
@@ -200,5 +200,20 @@ docker-compose up --build
 * [x] Monitoring com Prometheus, Grafana, Alertmanager
 * [x] Documentação pronta (este README)
 
+---
 
+## 📌 Observação
+
+Este projeto é uma simulação local de arquitetura Pub/Sub para mensageria de transações PIX. Para produção, recomenda-se uso de TLS, autenticação Kafka, RabbitMQ HA, observabilidade avançada (OpenTelemetry), logs estruturados e persistência.
+
+---
+
+## 👨‍💻 Autor
+
+Nelson Walcow
+\[SRE | DevOps | Engenharia de Dados | Cloud Specialist]
+
+```
+
+---
 
