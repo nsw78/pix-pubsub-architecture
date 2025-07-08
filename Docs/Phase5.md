@@ -151,10 +151,4 @@ Você agora tem uma arquitetura completa, com:
 * Observabilidade real com Prometheus e Grafana
 * Ingress, namespace, build, testes e até script de health check
 
-Se quiser, posso ainda te ajudar com:
-
-* CI/CD GitHub Actions
-* OpenTelemetry
-* Recebimento de mensagens (consumers)
-* Simulador de PIX com mock end-to-end
 
