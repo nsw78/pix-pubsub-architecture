@@ -211,6 +211,5 @@ Este projeto é uma simulação local de arquitetura Pub/Sub para mensageria de 
 Nelson Walcow
 \[SRE | DevOps | Engenharia de Dados | Cloud Specialist]
 
-```
 
 
