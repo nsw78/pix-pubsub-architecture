@@ -1,4 +1,4 @@
-**manifests do Kubernetes** segmentados por diretório, namespace e boas práticas. Cada bloco tem o respectivo código pronto para copiar/colar.
+Perfeito! Vamos à **parte 2/5**, com os **manifests do Kubernetes** segmentados por diretório, namespace e boas práticas. Cada bloco tem o respectivo código pronto para copiar/colar.
 
 ---
 
@@ -325,5 +325,4 @@ Na **parte 3**, vamos:
 * Criar os manifestos para o **monitoramento com Prometheus, Grafana e Alertmanager**
 * Adicionar os tópicos Kafka e Exchange no RabbitMQ para os eventos PIX
 * Gerar os comandos para build das imagens
-
 
