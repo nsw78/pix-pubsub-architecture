@@ -1,4 +1,4 @@
-Guia detalhado com código:
+Perfeito! Vamos construir o projeto passo a passo. Aqui está a **parte 1/5** do guia detalhado com código:
 
 ---
 
@@ -140,4 +140,12 @@ CMD ["python", "app.py"]
 
 ---
 
+### ✅ Próximos passos
 
+Na **parte 2**, vamos:
+
+* Criar os manifests Kubernetes (`k8s/`)
+* Configurar `Kafka`, `RabbitMQ`, `APIs`, `Ingress`, `Monitoramento (Prometheus, Grafana, Alertmanager)`
+* Preparar o `README.md`
+
+Posso seguir com a **parte 2** agora?
